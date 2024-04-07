@@ -24,6 +24,9 @@ Après avoir testé notre système sur un ensemble de données d'évaluation, no
 ### Exemple de tableau obtenu
 ![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats2.JPG)
 
+### Exemple de résultat
+![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Results/012_jpeg/final.jpg)
+
 ## Critique de la Solution Existante et Axes d'Amélioration
 
 Bien que notre système produise des résultats satisfaisants, certaines améliorations peuvent être envisagées pour renforcer ses performances. Parmi ces axes d'amélioration, on peut citer :
