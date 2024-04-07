@@ -18,9 +18,9 @@ Comptage des Pièces : Une fois les pièces détectées et identifiées, nous av
 
 Après avoir testé notre système sur un ensemble de données d'évaluation, nous avons obtenu des résultats prometteurs en termes de détection. Malgré la précision de la détection, nous avons constaté que le processus de comptage des pièces n'était pas aussi précis que prévu.
 
-![Resultats 1](https://github.com/username/repository/raw/branch/folder/image.png](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats1.JPG)
-![Resultats 2](https://github.com/username/repository/raw/branch/folder/image.png](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats2.JPG)
-![Resultats 3](https://github.com/username/repository/raw/branch/folder/image.png](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats3.JPG)
+![Resultats 1](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats1.JPG)
+![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats2.JPG)
+![Resultats 3](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats3.JPG)
 
 ## Critique de la Solution Existante et Axes d'Amélioration
 
