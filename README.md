@@ -33,7 +33,7 @@ Bien que notre système produise des résultats satisfaisants, certaines amélio
 - Gestion des Cas Limites : Renforcer la capacité du système à gérer les cas où les pièces sont partiellement cachées ou enchevêtrées les unes avec les autres.
 
 - Extension à d'Autres Devises : Adapter le système pour qu'il puisse également détecter et identifier des pièces d'autres devises que l'euro, ce qui le rendrait plus polyvalent.
-- 
+  
 - Utilisation du Deep Learning : Utilisation de modèle CNN pour obtenir de meilleur résultat et surtout des résultats plus constant.
 
 En résumé, ce projet représente une première étape vers le développement d'un système robuste et précis de détection et de comptage de pièces de monnaie en euros à partir d'images.
