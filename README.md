@@ -4,7 +4,7 @@
 
 Ce projet vise à développer un système de détection, d'identification et de comptage des pièces de monnaie en euros à partir d'une image donnée en entrée. La tâche est réalisée en plusieurs étapes, notamment l'acquisition de données, l'implémentation d'algorithmes de détection et de classification, ainsi que l'évaluation des performances du système.
 
-## Méthode et Traitement :
+## Méthode et Traitement
 
 Acquisition des Données : Nous avons construit un jeu de données comprenant des images représentant des ensembles de pièces de monnaie en euros.
 
@@ -14,11 +14,11 @@ Détection des Pièces : Nous avons implémenté une méthode de détection des 
 
 Comptage des Pièces : Une fois les pièces détectées et identifiées, nous avons mis en place un mécanisme de comptage pour calculer la somme totale représentée par les pièces dans l'image.
 
-## Résultats :
+## Résultats
 
 Après avoir testé notre système sur un ensemble de données d'évaluation, nous avons obtenu des résultats prometteurs en termes de détection. Malgré la précision de la détection, nous avons constaté que le processus de comptage des pièces n'était pas aussi précis que prévu.
 
-## Critique de la Solution Existante et Axes d'Amélioration :
+## Critique de la Solution Existante et Axes d'Amélioration
 
 Bien que notre système produise des résultats satisfaisants, certaines améliorations peuvent être envisagées pour renforcer ses performances. Parmi ces axes d'amélioration, on peut citer :
 
