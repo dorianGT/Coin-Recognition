@@ -18,6 +18,10 @@ Comptage des Pièces : Une fois les pièces détectées et identifiées, nous av
 
 ![Traitement 1](https://github.com/dorianGT/Coin-Recognition/blob/main/Traitement1.JPG)
 
+Voici un exemple de résultat obtenu sur une image:
+
+![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Results/012_jpeg/final.jpg)
+
 ### Traitement Partie 2: Trouver la valeur
 
 ![Traitement 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Traitement2.JPG)
@@ -26,6 +30,9 @@ Pour la classification des pièces, nous avons cherché à effectuer un premier 
 
 En utilisant différentes métriques de similarité, nous avons cherché à trouver la valeur de la pièce. Les métriques utilisées sont cosinus similarity, SSIM et histogramme intersection.
 
+ Voici le résultat d'une pièce labelisée par notre programme:
+
+![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Results/012_jpeg/Coins%20Found%20Label/coin_4.jpg)
 
 ## Résultats
 
@@ -37,14 +44,6 @@ Après avoir testé notre système sur un ensemble de données d'évaluation, no
 ### Exemple de tableau obtenu
 
 ![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Resultats2.JPG)
-
-### Exemple de résultat
-
-![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Results/012_jpeg/final.jpg)
-
- Voici le résultat d'une pièce labelisée par notre programme:
-
-![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Results/012_jpeg/Coins%20Found%20Label/coin_4.jpg)
 
 ## Critique de la Solution Existante et Axes d'Amélioration
 
