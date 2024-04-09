@@ -22,6 +22,12 @@ Comptage des Pièces : Une fois les pièces détectées et identifiées, nous av
 
 ![Traitement 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Traitement2.JPG)
 
+Pour la classification des pièces, nous avons cherché à effectuer un premier tri par couleur afin de différencier les pièces de centimes rouges, jaunes et les euros. Ce tri permet de réduire le nombre de valeurs possibles pour une pièce. Avec le script hsv_val.py, nous avons pu déterminer ces intervalles HSV qui permettent plus ou moins de réaliser ce premier tri et de créer 4 catégories : r (rouge), y (jaune), g1 (1 euro), g2 (2 euros). En créant les masques associés pour chaque pièce, nous pouvons essayer de déterminer la catégorie de la pièce en comptant le nombre de pixels dans chaque masque et en prenant celui qui en contient le plus. Si aucun masque ne permet de catégoriser la pièce, elle est alors classée comme "autre" (a).
+
+En utilisant différentes métriques de similarité, nous avons cherché à trouver la valeur de la pièce. Les métriques utilisées sont cosinus similarity, SSIM et histogramme intersection. Voici le résultat d'une pièce labelisée par notre programme:
+![Resultats 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Results/012_jpeg/Coins Found Label/coin_4.jpg)
+
+
 ## Résultats
 
 Après avoir testé notre système sur un ensemble de données d'évaluation, nous avons obtenu des résultats prometteurs en termes de détection. Malgré la précision de la détection, nous avons constaté que le processus de comptage des pièces n'était pas aussi précis que prévu.
