@@ -48,3 +48,16 @@ Bien que notre système produise des résultats satisfaisants, certaines amélio
 - Utilisation du Deep Learning : Utilisation de modèle CNN pour obtenir de meilleur résultat et surtout des résultats plus constant.
 
 En résumé, ce projet représente une première étape vers le développement d'un système robuste et précis de détection et de comptage de pièces de monnaie en euros à partir d'images.
+
+## Utilisation
+
+Le fichier main.ipynb est le fichier regroupant notre solution. Dans le dossier "Results", se trouvent tous les résultats que nous avons obtenus. Pour chaque image, vous pouvez retrouver les images suivantes :
+
+- Originale
+- Passage en niveau de gris
+- Flou médian
+- Flou gaussien
+- Finale
+- Des pièces trouvées
+- Des pièces trouvées étiquetées
+
