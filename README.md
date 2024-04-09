@@ -14,6 +14,14 @@ Détection des Pièces : Nous avons implémenté une méthode de détection des 
 
 Comptage des Pièces : Une fois les pièces détectées et identifiées, nous avons mis en place un mécanisme de comptage pour calculer la somme totale représentée par les pièces dans l'image.
 
+### Traitement Partie 1: Détection des pièces
+
+![Traitement 1](https://github.com/dorianGT/Coin-Recognition/blob/main/Traitement1.JPG)
+
+### Traitement Partie 2: Trouver la valeur
+
+![Traitement 2](https://github.com/dorianGT/Coin-Recognition/blob/main/Traitement2.JPG)
+
 ## Résultats
 
 Après avoir testé notre système sur un ensemble de données d'évaluation, nous avons obtenu des résultats prometteurs en termes de détection. Malgré la précision de la détection, nous avons constaté que le processus de comptage des pièces n'était pas aussi précis que prévu.
